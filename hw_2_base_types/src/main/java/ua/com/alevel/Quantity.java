@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Quantity {
+
     public void count() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your string to count characters");
